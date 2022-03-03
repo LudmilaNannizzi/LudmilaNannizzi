@@ -27,6 +27,7 @@
 >> <strong> Actualmente estoy en el viaje de prender React </strong>
 
 
-
-![Ed Cowcoy Bebop](https://c.tenor.com/X4i9UfhS69QAAAAC/ed-cowboy.gif)
+<p align="center">
+<img src="https://c.tenor.com/X4i9UfhS69QAAAAC/ed-cowboy.gif" > 
+</p>
 
