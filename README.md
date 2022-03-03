@@ -2,15 +2,15 @@
 
 <p align="center">💻👾🌌 <strong> Mi nombre es Ludmila </strong>🌌👾💻 </p>
 
-- 🦿 Viviendo como un cyborg
+- 🦿 Cyborg
 - 🔌 Amante de la electrónica y la programación 👨‍💻
 - 📸 Saco fotos y dibujo garabatos ✏
-
+<br>
 <p>
 <strong> Actualmente me encuentro finalizando la carrera de más de 400 horas de desarrollo FrontEnd en Ada ITW y estudiando Artes Electrónicas en la UNTreF. 
   Me encanta la tecnología y descubrir cosas nuevas. </strong>
 </p>
-
+<br>
 <h2> Manejo las siguientes tecnologías </h2>
 
  ![HTML](https://img.shields.io/badge/-HTML-E34F26?&logo=html5&logoColor=ffffff)
@@ -26,7 +26,7 @@
 
 >> <strong> Actualmente estoy en el viaje de prender React </strong>
 
-
+<br><br><br>
 <p align="center">
 <img src="https://c.tenor.com/X4i9UfhS69QAAAAC/ed-cowboy.gif" > 
 </p>
