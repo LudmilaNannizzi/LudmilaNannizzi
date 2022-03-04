@@ -1,6 +1,6 @@
 <h1 align="center">✨ Bienvenidx a mi mundo ✨</h1>
 
-<p align="center">💻👾🌌 <strong> Mi nombre es Ludmila </strong>🌌👾💻 </p>
+<p align="center">💻👾🌌 <strong> Mi nombre es Ludmila Nannizzi</strong>🌌👾💻 </p>
 
 - 🦿 Cyborg
 - 🔌 Amante de la electrónica y la programación 👨‍💻
