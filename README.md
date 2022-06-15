@@ -3,7 +3,7 @@
 <p align="center">💻👾🌌 <strong> Mi nombre es Ludmila Nannizzi</strong>🌌👾💻 </p>
 
 - 🦿 Cyborg
-- 🔌 Amante de la electrónica y la programación 👨‍💻
+- 🔌 Amante de la programación 👨‍💻
 - 📸 Saco fotos y dibujo garabatos ✏
 <br>
 <p>
