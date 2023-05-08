@@ -1,4 +1,4 @@
-<h1 align="center">✨ Bienvenidx a mi mundo ✨</h1>
+<h1 align="center">✨ Bienvenido a mi mundo ✨</h1>
 
 <p align="center">💻👾🌌 <strong> Mi nombre es Ludmila Nannizzi</strong>🌌👾💻 </p>
 
